@@ -9,7 +9,7 @@ This is a dataset for multi-goal path finding problem, including a training data
     
     
     
-************Simulation Dataset************
+************Simulation Dataset[updating]************
     - For test the performance of MGPF algorithms
     - Including seen scenarios and unseen senarios
     - parts of unseen scenarios stem from [2]
