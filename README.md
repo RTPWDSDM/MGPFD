@@ -23,5 +23,6 @@ model for multi-goal path planning problem,” 2023, proceedings
 of IEEE International Conference on Robot Human Interactive Communication
 (ROMAN-2023). [unpublished]
 [2]Wang. Satellite buildings semantic segmentation data (version
-6). (2021). [Online]. Available: https://www.kaggle.com/
-datasets/hyyyrwang/buildings-dataset
+6). (2021). [Online]. 
+
+Available: https://www.kaggle.com/datasets/hyyyrwang/buildings-dataset
