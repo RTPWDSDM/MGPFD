@@ -19,10 +19,14 @@ This is a dataset for multi-goal path finding problem, including a training data
     
 Reference 
 
-[1]Y. Huang, G. Kairui, and L. Hee-hyol, “S&reg: End-to-end learningbased
-model for multi-goal path planning problem,” 2023, proceedings
-of IEEE International Conference on Robot Human Interactive Communication
-(ROMAN-2023). [unpublished]
+[1]@misc{huang2023sreg,
+      title={S&Reg: End-to-End Learning-Based Model for Multi-Goal Path Planning Problem}, 
+      author={Yuan Huang and Kairui Gu and Hee-hyol Lee},
+      year={2023},
+      eprint={2308.04160},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
 
 [2]Wang. Satellite buildings semantic segmentation data (version
 6). (2021). [Online]. Available: https://www.kaggle.com/datasets/hyyyrwang/buildings-dataset
